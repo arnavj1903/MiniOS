@@ -1,1 +1,1 @@
-# SkibidiOS
+# MiniOS
